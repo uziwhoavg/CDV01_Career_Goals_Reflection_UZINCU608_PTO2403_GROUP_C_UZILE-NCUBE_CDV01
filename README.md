@@ -80,7 +80,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 - To complete this submission you will need to use this template and complete Parts 1 to 5.
 - Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Part.
+- You will fill in your reflections for each seciton under Parts 1 to 5.
 - Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
 - You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
 
