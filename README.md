@@ -3,7 +3,7 @@
 
 ### Personal Information
 
-- **Name:**UZILE uzi NCUBE
+- **Name:** UZILE 'uzi' NCUBE
 - **Date:** 17 MAY 2023
 - **Current Role/Position:** Honours Organisational Psychology (UCT)
 - **Field of Interest:** Health, Agriculture, Technology and Business.
@@ -12,17 +12,17 @@
 
 1. **Skills Analysis**:
     * Current Skills:
-           * Problem solving: Creative and outside the box thinking.
-           * Researching and finding creative solutions to challenges.
-           *  Multitalented in various areas including marketing, Basic website design, brand Building, and Sound production.
-           *  Digital designing and working freelance on marketing campaigns.
-           *  Gaining experience with prototyping using tools like Figma and involvement in software to development as a junior in a startup.
+        * Problem solving: Creative and outside the box thinking.
+        * Researching and finding creative solutions to challenges.
+        *  Multitalented in various areas including marketing, Basic website design, brand Building, and Sound production.
+        *  Digital designing and working freelance on marketing campaigns.
+        *  Gaining experience with prototyping using tools like Figma and involvement in software to development as a junior in a startup.
     * Skills I need to develop or improve:
-           * Advanced coding and software development skills.
-           *  enhance project management and organisational skills.
-           *  knowledge medicine and healthcare initiatives.
-           *  agricultural practices and livestock for farming.
-           *  Asking for help.
+        * Advanced coding and software development skills.
+        *  enhance project management and organisational skills.
+        *  knowledge medicine and healthcare initiatives.
+        *  agricultural practices and livestock for farming.
+        *  Asking for help.
    2. **Interests and Values**:
         * Key interests:
            * Learning new things implying acquired skills in various projects. 
